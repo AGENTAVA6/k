@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+
+}
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+#user_name{
+    width: 40%;
+    margin-left: 400px;
+    margin-right: 300px;
+    background-color: aqua;
+}
+#login_button{
+    width: 20%;
+}
+h1{
+    color: white;
+}
+h3{
+    color:white;
+}
